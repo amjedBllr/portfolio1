@@ -19,8 +19,6 @@ html{
 }
 body{
     background: var(--first-color);
-    height: 20000px;
-    
 }
 p , h3 , h4 , h2 , h1{
     cursor: default;
@@ -313,6 +311,9 @@ inside these containers*/
     color: var(--third-color);
 }
 /*--------------contact------------------*/
+#contact {
+    margin-bottom:300px;
+}
 #contact .info{
     margin-left: 10%;
     font-size: 30px;
